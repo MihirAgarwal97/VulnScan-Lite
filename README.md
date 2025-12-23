@@ -20,7 +20,8 @@ Passive security scanning (no attacks)
 Risk scoring system with visual indicators
 Security recommendations based on findings
 Cross-platform support (Linux & Windows)
-🛠️ Tools & Technologies Used
+
+## 🛠️ Tools & Technologies Used
 Python 3
 Flask (Web Framework)
 Requests Library
