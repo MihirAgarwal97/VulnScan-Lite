@@ -6,11 +6,11 @@ This project is designed for educational and internship purposes and works on bo
 
 ## 🎯 Project Objective
 Example for VulnScan Lite:
-• 	Analyze website security headers
-• 	Detect missing HTTP security headers
-• 	Validate SSL/TLS configuration
-• 	Classify website security risk levels (🟢 LOW / 🟠 MEDIUM / 🔴 HIGH)
-• 	Provide basic security recommendations
+- 	Analyze website security headers
+- 	Detect missing HTTP security headers
+- 	Validate SSL/TLS configuration
+- 	Classify website security risk levels (🟢 LOW / 🟠 MEDIUM / 🔴 HIGH)
+- 	Provide basic security recommendations
 ## 🚀 Key Features
 ### HTTP Security Header Analysis
 - Analyzes website response headers for security best practices
@@ -36,13 +36,6 @@ Example for VulnScan Lite:
   - 	Works seamlessly on both Linux and Windows systems
 ### 	Disclaimer Section
 - 	Clearly states the project is for educational and internship purposes only
-### 🚀 Key Features
-- Simple and user-friendly web interface
-- Passive security scanning (no attacks)
-- Risk scoring system with visual indicators
-- Security recommendations based on findings
-- Cross-platform support (Linux & Windows)
-
 ## 🛠️ Tools & Technologies Used
 - Python 3
 - Flask (Web Framework)
