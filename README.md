@@ -27,7 +27,7 @@ Requests Library
 SSL & Socket Modules
 HTML & CSS
 Operating Systems: Linux / Windows
-📂 Project Structure
+### 📂 Project Structure
 VulnScan-Lite/ ├── app.py ├── requirements.txt ├── templates/ │ └── index.html ├── static/ │ └── style.css
 
 ### ▶️ How to Use the Project
