@@ -5,29 +5,29 @@ The project performs basic vulnerability assessment by analyzing HTTP security h
 This project is designed for educational and internship purposes and works on both Linux and Windows systems.
 
 ## 🎯 Project Objective
-Analyze website security headers
-Detect missing HTTP security headers
-Validate SSL/TLS configuration
-Classify website security risk:
-🟢 LOW
-🟠 MEDIUM
-🔴 HIGH
-Provide basic security recommendations
+- Analyze website security headers
+- Detect missing HTTP security headers
+- Validate SSL/TLS configuration
+- Classify website security risk:
+- 🟢 LOW
+- 🟠 MEDIUM
+- 🔴 HIGH
+- Provide basic security recommendations
 
 ### 🚀 Key Features
-Simple and user-friendly web interface
-Passive security scanning (no attacks)
-Risk scoring system with visual indicators
-Security recommendations based on findings
-Cross-platform support (Linux & Windows)
+- Simple and user-friendly web interface
+- Passive security scanning (no attacks)
+- Risk scoring system with visual indicators
+- Security recommendations based on findings
+- Cross-platform support (Linux & Windows)
 
 ## 🛠️ Tools & Technologies Used
-Python 3
-Flask (Web Framework)
-Requests Library
-SSL & Socket Modules
-HTML & CSS
-Operating Systems: Linux / Windows
+- Python 3
+- Flask (Web Framework)
+- Requests Library
+- SSL & Socket Modules
+- HTML & CSS
+- Operating Systems: Linux / Windows
 ### 📂 Project Structure
 VulnScan-Lite/ ├── app.py ├── requirements.txt ├── templates/ │ └── index.html ├── static/ │ └── style.css
 
