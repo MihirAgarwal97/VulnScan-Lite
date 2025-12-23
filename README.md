@@ -5,15 +5,37 @@ The project performs basic vulnerability assessment by analyzing HTTP security h
 This project is designed for educational and internship purposes and works on both Linux and Windows systems.
 
 ## 🎯 Project Objective
-- Analyze website security headers
-- Detect missing HTTP security headers
-- Validate SSL/TLS configuration
-- Classify website security risk:
-- 🟢 LOW
+Example for VulnScan Lite:
+• 	Analyze website security headers
+• 	Detect missing HTTP security headers
+• 	Validate SSL/TLS configuration
+• 	Classify website security risk levels (🟢 LOW / 🟠 MEDIUM / 🔴 HIGH)
+• 	Provide basic security recommendations
+## 🚀 Key Features
+### HTTP Security Header Analysis
+- Analyzes website response headers for security best practices
+- 	Detects missing or misconfigured headers such as CSP, X-Frame-Options, and X-Content-Type-Options
+### 	SSL/TLS Validation
+- 	Validates SSL/TLS certificates to check if they are properly configured
+- 	Flags invalid or insecure SSL setups
+### 	Cookie Security Check
+- 	Identifies cookies with Secure and HttpOnly flags
+- 	Highlights potential risks in cookie handling
+### 	CMS Detection
+- 	Recognizes popular content management systems like WordPress, Joomla, Drupal, or marks as Unknown
+### Risk Scoring System
+- 	Classifies website security risk leve
+-	🟢 LOW
 - 🟠 MEDIUM
 - 🔴 HIGH
-- Provide basic security recommendations
-
+### 	Basic Security Recommendations
+- 	Provides actionable suggestions to improve website security based on findings
+### 	Backend Logic & Frontend UI
+- 	Robust backend scanning logic with a simple, user-friendly web interface
+### 	Cross-Platform Support
+  - 	Works seamlessly on both Linux and Windows systems
+### 	Disclaimer Section
+- 	Clearly states the project is for educational and internship purposes only
 ### 🚀 Key Features
 - Simple and user-friendly web interface
 - Passive security scanning (no attacks)
